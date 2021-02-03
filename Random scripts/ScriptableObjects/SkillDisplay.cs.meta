@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d0df2422ef8b9ba4eb60252ffd2a115c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skill: {instanceID: 0}
+  - skillName: {instanceID: 0}
+  - skillDescription: {instanceID: 0}
+  - skillIcon: {instanceID: 0}
+  - skillLevel: {instanceID: 0}
+  - skillXPNeeded: {instanceID: 0}
+  - skillAttribute: {instanceID: 0}
+  - skillAttributeAmount: {instanceID: 0}
+  - m_PlayerHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740910a6d7564c04488c61eb8363a975, type: 3}
+  m_Name: Fire Tornado
+  m_EditorClassIdentifier: 
+  Description: Aoe Fire Tornado
+  Icon: {fileID: 21300076, guid: b745f66938bd9b24f9dff5c977b1bddc, type: 3}
+  levelNeeded: 3
+  xpNeeded: 30
+  AffectedAttritubes:
+  - attribute: {fileID: 11400000, guid: 021c533a6b10af5498fec0e3a7dfe119, type: 2}
+    amount: 15
